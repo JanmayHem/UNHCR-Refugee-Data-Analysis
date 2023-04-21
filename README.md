@@ -20,3 +20,5 @@ The results of this project are presented in a clear and concise manner through 
 
 ## Conclusion
 This project provides valuable information and tools to understand and explore the refugee crisis, using the UNHCR refugee dataset. By analyzing key indicators, this project presents insights into the global refugee crisis, which can inform policy decisions and aid in providing support to those in need.
+
+Made with :heart: by [Janmay Joshi](https://github.com/JanmayHem) and [Vansh Tandon](https://github.com/1shtandon)
